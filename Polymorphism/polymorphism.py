@@ -20,7 +20,7 @@ class Pigeon(Birds):
         print("Pigeons can fly")
 
 class Penguin(Birds):
-    color = 'Black and White, baby penguins are mainly grey"
+    color = 'Black and White, baby penguins are mainly grey'
     flight = 'Can not fly'
     def intro(self):
         print("Penguins are home to Antartica and colder climates")
