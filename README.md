@@ -1,6 +1,6 @@
 # Python
 
-These are a handful of assignments competed during my Python course with The Tech Academy.  
+These are a handful of assignments completed during my Python course with The Tech Academy.  
 (For unmentioned projects - description is the title of the folder)
 
 ## Phonebook_App
